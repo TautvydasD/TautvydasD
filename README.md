@@ -10,7 +10,9 @@ You were trying to cross the border. Walked right into my profiles ambush, same 
 ## 👉🏻 I am/do...
 
 👶 Currently an intern.
+
 👨‍🎓 Studying Bachelors in KTU.
+
 🤹 Love music, sports and board games.
 
 
