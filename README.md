@@ -7,7 +7,7 @@
 ### ⏰ Hey, you, you're finally awake. ⏰
 You were trying to cross the border. Walked right into my profiles ambush, same as me...
 
-## 👉🏻 I am/do...
+## I am/do...
 
 👶 Currently an intern.
 
@@ -16,7 +16,7 @@ You were trying to cross the border. Walked right into my profiles ambush, same 
 🤹 Love music, sports and board games.
 
 
-## 📞 Ways of contacting
+## Ways of contacting
 <a href="mailto:tautvydas.diksas@gmail.com" target="_blank" rel="noopener noreferrer"><img width="30" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg"></a>
 <a href="https://www.facebook.com/tautvydas.diksas/" target="_blank" rel="noopener noreferrer"><img width="30" src="https://www.flaticon.com/svg/static/icons/svg/733/733547.svg"></a>
 <a href="https://www.linkedin.com/in/tautvydas-dikšas-107865173" target="_blank" rel="noopener noreferrer"><img width="30" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg"></a>
