@@ -7,13 +7,11 @@
 ### ⏰ Hey, you, you're finally awake. ⏰
 You were trying to cross the border. Walked right into my profiles ambush, same as me...
 
-## Current me is...
+## 👉🏻 Current me is...
 
-👶 Currently an intern.
-
-👨‍🎓 Studying Bachelors in KTU.
-
-🤹🏻 Loves music, sports and board games.
+1. Currently an intern.👶
+2. Studying Bachelors in KTU.👨‍🎓
+3. Loves music, sports and board games.🤹
 
 
 ## 📞 Ways of contacting
