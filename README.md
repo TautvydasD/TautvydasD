@@ -29,7 +29,7 @@ You were trying to cross the border. Walked right into my profiles ambush, same 
   * Symfony, Express.JS, ASP.NET Core.
 
 * Databases:
-  * MongoDB, MySQL
+  * MongoDB(NoSQL), MariaDB(MySQL)
 
 * Version control system:
   * git
